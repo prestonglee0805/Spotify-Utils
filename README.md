@@ -1,7 +1,5 @@
 # Spotify-Utils 
 
-# Spotify Utils 🎵
-
 Spotify Utils is a Python-based project that interacts with the Spotify Web API to analyze your top artists and their popularity over a customizable time range. It provides an interactive way to explore your listening habits and gain insights into your music preferences.
 
 ## Features
